@@ -333,3 +333,12 @@ public class AutoCompleteSearchEngine {
         sc.close();
     }
 }
+
+// ===== AUTO-COMPLETE SEARCH ENGINE =====
+// 1. Insert Word
+// 2. Suggest Words
+// 5. Contains Search
+// 0. Exit
+// Enter your choice: 2
+// Enter prefix: dat
+// Suggestions: database (9), data (5), dating (2)
